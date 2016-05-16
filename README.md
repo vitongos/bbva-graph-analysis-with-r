@@ -22,7 +22,7 @@ deploy/r.sh
 
 ### Installing R packages
 ```bash
-cd ~/graph-src/src
+cd ~/graph-src/deploy
 sudo R --no-save < setup.R
 ```
 
