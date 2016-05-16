@@ -7,4 +7,4 @@ sudo yum -y install R
 sudo su -c 'rpm -Uhv https://download1.rstudio.org/rstudio-0.99.902-x86_64.rpm'
 sudo yum -y install mesa-libGL-devel mesa-libGLU-devel libpng-devel
 sudo yum -y install libcurl libcurl-devel
-sudo yum -y install libxml2-devel curl openssl-devel
+sudo yum -y install libxml2-devel curl openssl-devel libssh2-devel
