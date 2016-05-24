@@ -14,7 +14,7 @@ git clone https://github.com/vitongos/bbva-graph-analysis-with-r graph-src
 chmod +x graph-src/deploy/*.sh
 ```
 
-### Installing R and RStudio 0.99
+### Installing R and RStudio 0.97
 ```bash
 cd ~/graph-src/
 deploy/r.sh
