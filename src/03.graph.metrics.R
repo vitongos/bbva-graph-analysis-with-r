@@ -27,8 +27,8 @@ V(sg)$label <- degree.centrality
 plot(sg, layout = lyt)
 
 
-betwenness.centrality <- betweenness(sg)
-V(sg)$label <- betwenness.centrality
+betweenness.centrality <- betweenness(sg)
+V(sg)$label <- betweenness.centrality
 plot(sg, layout = lyt)
 
 
